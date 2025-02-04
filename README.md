@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **terrasky064/terrasky064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -12,4 +12,4 @@
 - 📫 How to reach me: email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an avid Cross Country runner
--->
+
